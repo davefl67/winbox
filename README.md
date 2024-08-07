@@ -13,6 +13,7 @@
 
 <a href="https://nextapps-de.github.io/winbox/">https://nextapps-de.github.io/winbox/ </a>
 
+<!--
 ## Support this Project
 
 Hello my name is Thomas, also known as ts-thomas. This is a personal project which I fully made in my free time. It is hosted by the Github account from the company Nextapps where I work to give it more exposure.
@@ -37,11 +38,11 @@ I'm really happy that WinBox.js is getting so much positive feedback and also fe
 <a href="https://www.paypal.com/donate/?hosted_button_id=GEVR88FC9BWRW" target="_blank">
     <img src="https://www.paypalobjects.com/webstatic/de_DE/i/de-pp-logo-200px.png" height="32" alt="Donate using PayPal">
 </a>
-<!-- [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/ts-thomas/) -->
+<!-- [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/ts-thomas/) 
 <br><br>
 Thanks a lot,
 Thomas (ts-thomas)
-
+-->
 <a name="addon"></a>
 ### Plugins / Add-ons / Extensions
 Vue 2 and 3 (a wrapper component that adds the ability to mount Vue components in WinBox.js):<br>
